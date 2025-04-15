@@ -1,7 +1,7 @@
 # assignment-3
 
 ### Live Link 
-[Website link](https://shadmanrakib.github.io/assignment-3/)
+[Website link](https://nazmuld1.github.io/assignment-3/)
 
 Group member names:
 
