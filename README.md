@@ -5,10 +5,10 @@
 
 Group member names:
 
-[Shadman Rakib](https://github.com/shadmanrakib)
+[Shadman](https://github.com/shadmanrakib)
 
-[Namzul Dewan](https://github.com/NazmulD1)
+[Nazmul](https://github.com/NazmulD1)
 
-[Ahmed Said](https://github.com/Ahmednyc1)
+[Ahmed](https://github.com/Ahmednyc1)
 
-[Eva Georgieva](https://github.com/bobawanna)
+[Eva](https://github.com/bobawanna)
